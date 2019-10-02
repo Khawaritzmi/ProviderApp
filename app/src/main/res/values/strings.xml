@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FavoriteAppTester</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="poster_movie">Poster Movie</string>
+    <string name="title">title</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="backdrop_movie">Backdrop Movie</string>
+    <string name="overview">overview</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="language">Language</string>
+</resources>
